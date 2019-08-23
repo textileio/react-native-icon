@@ -4,524 +4,524 @@ Icon component and font used by Textile Photos
 
 ### Ref list of available names
 
-arrow-bottom-left_16
-arrow-bottom-right_16
-arrow-bottom_16
-arrow-left_16
-arrow-right_16
-arrow-top-left_16
-arrow-top-right_16
-arrow-top_16
-bookmark_16
-browser_16
-calendar_16
-call-phone_16
-camera_16
-chevron-bottom_16
-chevron-left_16
-chevron-right_16
-chevron-top_16
-chevrons-bottom_16
-chevrons-left_16
-chevrons-right_16
-circle-arrow-bottom_16
-circle-arrow-left_16
-circle-arrow-right_16
-circle-arrow-top_16
-circle-chevron-bottom_16
-circle-chevron-left_16
-circle-chevron-right_16
-circle-chevron-top_16
-circle-chevrons-top_16
-circle-minus_16
-circle-plus_16
-circle-x_16
-copy_16
-external-link_16
-eye_16
-file_16
-folder_16
-globe_16
-heart_16
-info_16
-lock_16
-mail_16
-menu_16
-minus_16
-options_16
-paperclip-vertical_16
-paperclip_16
-pencil_16
-pin_16
-plus_16
-printer_16
-question-circle_16
-search_16
-star_16
-target_16
-time_16
-wi-fi_16
-x_16
-invite
-devices
-360
-add-to-library
-advertisement
-airplay
-alarm-checked
-alarm-minus
-alarm-no
-alarm-plus
-alarm-snooze
-alarm
-alert-circle
-alert-octagon
-alert-triangle
-app-notification
-apps
-arrow-bold-bottom
-arrow-bold-forvard-all
-arrow-bold-forvard
-arrow-bold-left
-arrow-bold-redo
-arrow-bold-reply-all
-arrow-bold-reply
-arrow-bold-right
-arrow-bold-top
-arrow-bold-undo
-arrow-bottom-left
-arrow-bottom-right
-arrow-bottom
-arrow-forward-all
-arrow-forward
-arrow-left-curved
-arrow-left
-arrow-redo
-arrow-reply-all
-arrow-reply
-arrow-right-curved
-arrow-right
-arrow-top-left
-arrow-top-right
-arrow-top
-arrow-undo
-arrows-diagonals-bltr
-arrows-diagonals-tlbr
-arrows-diagonals
-arrows-hv
-artist
-at-sign
-atom
-avocado
-bag
-bar-chart
-bascket
-battery-20
-battery-40
-battery-60
-battery-80
-battery-100
-battery-charching
-battery-no
-battery
-behance
-bell-add
-bell-alert
-bell-checked
-bell-minus
-bell-no
-bell
-bitcoin
-block-align-bottom
-block-align-horizontally
-block-align-left
-block-align-right
-block-align-top
-block-align-vertically
-block-distribute-horizontally
-block-distribute-vertically
-bluetooth-no
-bluetooth
-bone
-book
-bookmark-add
-bookmark-no
-bookmark
-bookmarks
-box
-brake-page
-bread
-brightness-high
-brightness-low
-broadcast
-broadcasting
-browser-no
-browser
-brush
-calculator
-calendar-checked
-calendar-create
-calendar-dates
-calendar-delete
-calendar-minus
-calendar-plus
-calendar
-call-add
-call-calling
-call-decline
-call-end
-call-forwarded
-call-hash
-call-hold
-call-incoming
-call-missed
-call-muted
-call-no
-call-numbers
-call-outcoming
-call-phone
-call-recieved
-call-voicemail
-camera-create
-camera-no
-camera
-cart
-case
-cast
-CD
-check-mark
-check-marks
-chevron-bottom
-chevron-left
-chevron-right
-chevron-top
-chevrons-bottom
-chevrons-left
-chevrons-right
-chevrons-top
-chicken
-circle-arrow-bottom-left
-circle-arrow-bottom-right
-circle-arrow-bottom
-circle-arrow-left-curved
-circle-arrow-left
-circle-arrow-right-curved
-circle-arrow-right
-circle-arrow-top-left
-circle-arrow-top-right
-circle-arrow-top
-circle-block
-circle-checked
-circle-chevron-bottom
-circle-chevron-left
-circle-chevron-right
-circle-chevron-top
-circle-chevrons-bottom
-circle-chevrons-left
-circle-chevrons-right
-circle-chevrons-top
-circle-menu
-circle-minus
-circle-more-horizontal
-circle-more-vertical
-circle-plus
-circle-star
-circle-x
-circle
-clear-style
-clipboard-checked
-clipboard-delete
-clipboard-minus
-clipboard-plus
-clipboard-text
-clipboard
-cloud-checked
-cloud-connect
-cloud-download
-cloud-no
-cloud-upload
-cloud
-code
-coffee
-command
-comment-checked
-comment-delete
-comment-minus
-comment-plus
-comment-text
-comment
-compas
-contrast
-copy
-coupon
-creditcard-add
-creditcard-face
-creditcard-income
-creditcard-no
-creditcard-outcome
-creditcard-scan
-creditcard
-cross
-crosshairs
-cup
-cut-coupon
-cut
-dashboard
-database
-delete
-delivery
-direction-45
-direction
-discount
-download-bold
-download
-dribbble
-drop
-edit-shape
-egg
-eject
-elements
-equalizer
-ethereum
-external-link
-eye-no
-eye
-facebook
-file-checked
-file-code
-file-create
-file-delete
-file-download
-file-draft
-file-minus
-file-plus
-file-scan
-file-shredder
-file-text
-file-upload
-file
-filter
-flag
-flame
-flash-card
-floppy
-folder-arrow
-folder-checked
-folder-cloud
-folder-create
-folder-delete
-folder-minus
-folder-music
-folder-opened
-folder-photo
-folder-plus
-folder-zip
-folder
-form
-frame
-gift
-github
-gitlab
-glasses
-globe-no
-globe
-globe1
-google
-grid-6
-grid-col-2
-grid-col-3
-grid-dynamic
-grid-frame
-grid-row-2-copy
-grid-row-2
-grid-row-3
-grid-slides
-grid-small
-grid
-hash
-heart-no
-heart
-home
-icecream
-iframe
-image
-inbox
-infinity
-info
-instagram
-iPad
-iPhone
-items
-kanban
-key-no
-key
-laptop
-laughing
-layers
-layout
-lightbulb
-lightning-no
-lightning
-link-no
-link
-linkedin
-list
-listen-later
-location-no
-location
-lock-circle
-lock-no
-lock
-mail
-map-pin-location
-map
-maximize
-memory-card
-menu-dots
-menu
-mic-no
-mic
-minimize
-minus-octagon
-minus
-mobile
-monitor
-moon
-more-horizontal
-more-vertical
-music-library
-music-note
-neutral
-newspaper
-note-text
-note
-nut
-options
-padding
-panorama
-paperclip-no
-paperclip
-paypass
-peace
-pencil-create
-pencil-edit
-pin-add
-pin-no
-pin-question
-pin-round
-pin-start
-pin
-planet
-player-fast-back
-player-fast-forward
-player-list-add
-player-list-play
-player-list
-player-pause-circle
-player-pause
-player-play-circle
-player-play-pause
-player-play
-player-skip-back
-player-skip-forward
-player-stop-circle
-player-stop
-plus
-pocket
-pos
-presentation
-printer
-pulse
-question-circle
-question
-queue
-radar
-radio
-record
-refresh-ccw-alert
-refresh-ccw
-refresh-cw-alert
-refresh-cw
-repeat
-rocket
-rotate-ccw
-rotate-cw
-rotate-left
-rotate-right
-route
-ruller
-sad
-scan
-screenshot
-search
-segment
-select-area
-select
-send
-server
-settings
-share-arrow
-share
-shield-lock
-shield-no
-shield-ok
-shield
-shocked
-shuffle
-sidebar-left
-sidebar-right
-smiled
-sound-wave
-stack
-star-no
-star
-sticker
-stopwatch
-strongbox
-sun
-table
-tag
-terminal
-text-align-center
-text-align-justify
-text-align-left
-text-align-right
-text-bgcolor
-text-bold
-text-color
-text-italic
-text-underline
-text
-thumbs-down
-thumbs-up
-time-history
-time
-timer
-toggle-left
-toggle-right
-tote
-toy-horse
-trash-empty
-trash
-tuner
-twitter
-unlock
-user
-verified-copy
-verified
-video-no
-video
-volume-high
-volume-low
-volume-no
-volume-off
-volume
-wallet
-watch
-wi-fi-no
-wi-fi
-x-octagon
-youtube
-zoom-in
-zoom-out
-uniEACE
+- arrow-bottom-left_16
+- arrow-bottom-right_16
+- arrow-bottom_16
+- arrow-left_16
+- arrow-right_16
+- arrow-top-left_16
+- arrow-top-right_16
+- arrow-top_16
+- bookmark_16
+- browser_16
+- calendar_16
+- call-phone_16
+- camera_16
+- chevron-bottom_16
+- chevron-left_16
+- chevron-right_16
+- chevron-top_16
+- chevrons-bottom_16
+- chevrons-left_16
+- chevrons-right_16
+- circle-arrow-bottom_16
+- circle-arrow-left_16
+- circle-arrow-right_16
+- circle-arrow-top_16
+- circle-chevron-bottom_16
+- circle-chevron-left_16
+- circle-chevron-right_16
+- circle-chevron-top_16
+- circle-chevrons-top_16
+- circle-minus_16
+- circle-plus_16
+- circle-x_16
+- copy_16
+- external-link_16
+- eye_16
+- file_16
+- folder_16
+- globe_16
+- heart_16
+- info_16
+- lock_16
+- mail_16
+- menu_16
+- minus_16
+- options_16
+- paperclip-vertical_16
+- paperclip_16
+- pencil_16
+- pin_16
+- plus_16
+- printer_16
+- question-circle_16
+- search_16
+- star_16
+- target_16
+- time_16
+- wi-fi_16
+- x_16
+- invite
+- devices
+- 360
+- add-to-library
+- advertisement
+- airplay
+- alarm-checked
+- alarm-minus
+- alarm-no
+- alarm-plus
+- alarm-snooze
+- alarm
+- alert-circle
+- alert-octagon
+- alert-triangle
+- app-notification
+- apps
+- arrow-bold-bottom
+- arrow-bold-forvard-all
+- arrow-bold-forvard
+- arrow-bold-left
+- arrow-bold-redo
+- arrow-bold-reply-all
+- arrow-bold-reply
+- arrow-bold-right
+- arrow-bold-top
+- arrow-bold-undo
+- arrow-bottom-left
+- arrow-bottom-right
+- arrow-bottom
+- arrow-forward-all
+- arrow-forward
+- arrow-left-curved
+- arrow-left
+- arrow-redo
+- arrow-reply-all
+- arrow-reply
+- arrow-right-curved
+- arrow-right
+- arrow-top-left
+- arrow-top-right
+- arrow-top
+- arrow-undo
+- arrows-diagonals-bltr
+- arrows-diagonals-tlbr
+- arrows-diagonals
+- arrows-hv
+- artist
+- at-sign
+- atom
+- avocado
+- bag
+- bar-chart
+- bascket
+- battery-20
+- battery-40
+- battery-60
+- battery-80
+- battery-100
+- battery-charching
+- battery-no
+- battery
+- behance
+- bell-add
+- bell-alert
+- bell-checked
+- bell-minus
+- bell-no
+- bell
+- bitcoin
+- block-align-bottom
+- block-align-horizontally
+- block-align-left
+- block-align-right
+- block-align-top
+- block-align-vertically
+- block-distribute-horizontally
+- block-distribute-vertically
+- bluetooth-no
+- bluetooth
+- bone
+- book
+- bookmark-add
+- bookmark-no
+- bookmark
+- bookmarks
+- box
+- brake-page
+- bread
+- brightness-high
+- brightness-low
+- broadcast
+- broadcasting
+- browser-no
+- browser
+- brush
+- calculator
+- calendar-checked
+- calendar-create
+- calendar-dates
+- calendar-delete
+- calendar-minus
+- calendar-plus
+- calendar
+- call-add
+- call-calling
+- call-decline
+- call-end
+- call-forwarded
+- call-hash
+- call-hold
+- call-incoming
+- call-missed
+- call-muted
+- call-no
+- call-numbers
+- call-outcoming
+- call-phone
+- call-recieved
+- call-voicemail
+- camera-create
+- camera-no
+- camera
+- cart
+- case
+- cast
+- CD
+- check-mark
+- check-marks
+- chevron-bottom
+- chevron-left
+- chevron-right
+- chevron-top
+- chevrons-bottom
+- chevrons-left
+- chevrons-right
+- chevrons-top
+- chicken
+- circle-arrow-bottom-left
+- circle-arrow-bottom-right
+- circle-arrow-bottom
+- circle-arrow-left-curved
+- circle-arrow-left
+- circle-arrow-right-curved
+- circle-arrow-right
+- circle-arrow-top-left
+- circle-arrow-top-right
+- circle-arrow-top
+- circle-block
+- circle-checked
+- circle-chevron-bottom
+- circle-chevron-left
+- circle-chevron-right
+- circle-chevron-top
+- circle-chevrons-bottom
+- circle-chevrons-left
+- circle-chevrons-right
+- circle-chevrons-top
+- circle-menu
+- circle-minus
+- circle-more-horizontal
+- circle-more-vertical
+- circle-plus
+- circle-star
+- circle-x
+- circle
+- clear-style
+- clipboard-checked
+- clipboard-delete
+- clipboard-minus
+- clipboard-plus
+- clipboard-text
+- clipboard
+- cloud-checked
+- cloud-connect
+- cloud-download
+- cloud-no
+- cloud-upload
+- cloud
+- code
+- coffee
+- command
+- comment-checked
+- comment-delete
+- comment-minus
+- comment-plus
+- comment-text
+- comment
+- compas
+- contrast
+- copy
+- coupon
+- creditcard-add
+- creditcard-face
+- creditcard-income
+- creditcard-no
+- creditcard-outcome
+- creditcard-scan
+- creditcard
+- cross
+- crosshairs
+- cup
+- cut-coupon
+- cut
+- dashboard
+- database
+- delete
+- delivery
+- direction-45
+- direction
+- discount
+- download-bold
+- download
+- dribbble
+- drop
+- edit-shape
+- egg
+- eject
+- elements
+- equalizer
+- ethereum
+- external-link
+- eye-no
+- eye
+- facebook
+- file-checked
+- file-code
+- file-create
+- file-delete
+- file-download
+- file-draft
+- file-minus
+- file-plus
+- file-scan
+- file-shredder
+- file-text
+- file-upload
+- file
+- filter
+- flag
+- flame
+- flash-card
+- floppy
+- folder-arrow
+- folder-checked
+- folder-cloud
+- folder-create
+- folder-delete
+- folder-minus
+- folder-music
+- folder-opened
+- folder-photo
+- folder-plus
+- folder-zip
+- folder
+- form
+- frame
+- gift
+- github
+- gitlab
+- glasses
+- globe-no
+- globe
+- globe1
+- google
+- grid-6
+- grid-col-2
+- grid-col-3
+- grid-dynamic
+- grid-frame
+- grid-row-2-copy
+- grid-row-2
+- grid-row-3
+- grid-slides
+- grid-small
+- grid
+- hash
+- heart-no
+- heart
+- home
+- icecream
+- iframe
+- image
+- inbox
+- infinity
+- info
+- instagram
+- iPad
+- iPhone
+- items
+- kanban
+- key-no
+- key
+- laptop
+- laughing
+- layers
+- layout
+- lightbulb
+- lightning-no
+- lightning
+- link-no
+- link
+- linkedin
+- list
+- listen-later
+- location-no
+- location
+- lock-circle
+- lock-no
+- lock
+- mail
+- map-pin-location
+- map
+- maximize
+- memory-card
+- menu-dots
+- menu
+- mic-no
+- mic
+- minimize
+- minus-octagon
+- minus
+- mobile
+- monitor
+- moon
+- more-horizontal
+- more-vertical
+- music-library
+- music-note
+- neutral
+- newspaper
+- note-text
+- note
+- nut
+- options
+- padding
+- panorama
+- paperclip-no
+- paperclip
+- paypass
+- peace
+- pencil-create
+- pencil-edit
+- pin-add
+- pin-no
+- pin-question
+- pin-round
+- pin-start
+- pin
+- planet
+- player-fast-back
+- player-fast-forward
+- player-list-add
+- player-list-play
+- player-list
+- player-pause-circle
+- player-pause
+- player-play-circle
+- player-play-pause
+- player-play
+- player-skip-back
+- player-skip-forward
+- player-stop-circle
+- player-stop
+- plus
+- pocket
+- pos
+- presentation
+- printer
+- pulse
+- question-circle
+- question
+- queue
+- radar
+- radio
+- record
+- refresh-ccw-alert
+- refresh-ccw
+- refresh-cw-alert
+- refresh-cw
+- repeat
+- rocket
+- rotate-ccw
+- rotate-cw
+- rotate-left
+- rotate-right
+- route
+- ruller
+- sad
+- scan
+- screenshot
+- search
+- segment
+- select-area
+- select
+- send
+- server
+- settings
+- share-arrow
+- share
+- shield-lock
+- shield-no
+- shield-ok
+- shield
+- shocked
+- shuffle
+- sidebar-left
+- sidebar-right
+- smiled
+- sound-wave
+- stack
+- star-no
+- star
+- sticker
+- stopwatch
+- strongbox
+- sun
+- table
+- tag
+- terminal
+- text-align-center
+- text-align-justify
+- text-align-left
+- text-align-right
+- text-bgcolor
+- text-bold
+- text-color
+- text-italic
+- text-underline
+- text
+- thumbs-down
+- thumbs-up
+- time-history
+- time
+- timer
+- toggle-left
+- toggle-right
+- tote
+- toy-horse
+- trash-empty
+- trash
+- tuner
+- twitter
+- unlock
+- user
+- verified-copy
+- verified
+- video-no
+- video
+- volume-high
+- volume-low
+- volume-no
+- volume-off
+- volume
+- wallet
+- watch
+- wi-fi-no
+- wi-fi
+- x-octagon
+- youtube
+- zoom-in
+- zoom-out
+- uniEACE
